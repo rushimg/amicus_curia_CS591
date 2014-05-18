@@ -1,0 +1,26 @@
+2014-04-17 18:47:13,572 : INFO : topic diff=0.298573, rho=0.408248
+2014-04-17 18:47:13,574 : INFO : topic #0 (0.040): 0.165*act + 0.033*improvement + 0.026*home + 0.023*2008 + 0.020*2007 + 0.020*health + 0.019*2009 + 0.018*american + 0.015*america’s + 0.013*air
+2014-04-17 18:47:13,575 : INFO : topic #1 (0.040): 0.143*act + 0.023*water + 0.020*federal + 0.019*2007 + 0.017*2011 + 0.014*security + 0.013*development + 0.013*disclosure + 0.012*responsible + 0.012*2009
+2014-04-17 18:47:13,576 : INFO : topic #2 (0.040): 0.168*act + 0.038*education + 0.030*2003 + 0.025*2010 + 0.024*2000 + 0.019*national + 0.019*2005 + 0.018*2007 + 0.017*security + 0.017*medicare
+2014-04-17 18:47:13,577 : INFO : topic #3 (0.040): 0.118*act + 0.036*freedom + 0.030*rights + 0.022*human + 0.022*schools + 0.021*safe + 0.019*fair + 0.015*2011 + 0.015*funding + 0.015*preservation
+2014-04-17 18:47:13,578 : INFO : topic #4 (0.040): 0.091*act + 0.022*drug + 0.021*modernization + 0.020*prescription + 0.018*2011 + 0.015*2009 + 0.015*restoration + 0.014*flexibility + 0.014*transportation + 0.012*2009,
+2014-04-17 18:47:13,579 : INFO : topic #5 (0.040): 0.092*act + 0.031*medal + 0.025*congressional + 0.023*gold + 0.022*family + 0.021*relief + 0.020*2002 + 0.018*commission + 0.017*recognition + 0.017*service
+2014-04-17 18:47:13,580 : INFO : topic #6 (0.040): 0.057*act + 0.054*2006 + 0.028*duty + 0.024*temporarily + 0.023*suspend + 0.016*housing + 0.013*fund + 0.013*training + 0.011*certain + 0.011*prevent
+2014-04-17 18:47:13,581 : INFO : topic #7 (0.040): 0.078*act + 0.021*pay + 0.016*gas + 0.015*compensation + 0.015*crime + 0.015*increase + 0.011*tax + 0.011*2011 + 0.010*taxpayer + 0.009*oil
+2014-04-17 18:47:13,583 : INFO : topic #8 (0.040): 0.150*act + 0.031*reauthorization + 0.025*2009 + 0.020*treatment + 0.020*2011 + 0.018*cancer + 0.018*2007 + 0.015*opportunity + 0.013*2010 + 0.011*war
+2014-04-17 18:47:13,584 : INFO : topic #9 (0.040): 0.108*act + 0.042*energy + 0.017*security + 0.015*right + 0.014*national + 0.013*promotion + 0.012*district + 0.012*2005 + 0.012*future + 0.011*2007
+2014-04-17 18:47:13,586 : INFO : topic #10 (0.040): 0.113*act + 0.028*national + 0.026*fiscal + 0.023*2009 + 0.020*authorization + 0.019*medical + 0.019*year + 0.014*youth + 0.013*defense + 0.012*local
+2014-04-17 18:47:13,587 : INFO : topic #11 (0.040): 0.042*veterans + 0.036*act + 0.023*certain + 0.020*affairs + 0.020*amend + 0.018*department + 0.015*purposes. + 0.013*provide + 0.012*eligible + 0.012*qualified
+2014-04-17 18:47:13,588 : INFO : topic #12 (0.040): 0.106*united + 0.089*states + 0.036*amend + 0.034*title + 0.026*code, + 0.024*service + 0.022*purposes. + 0.015*provide + 0.015*office + 0.014*designate
+2014-04-17 18:47:13,589 : INFO : topic #13 (0.040): 0.103*act + 0.019*equity + 0.019*law + 0.018*enforcement + 0.016*2005 + 0.015*2007 + 0.014*national + 0.013*protection + 0.012*2011 + 0.011*interior
+2014-04-17 18:47:13,590 : INFO : topic #14 (0.040): 0.037*expressing + 0.034*support + 0.024*national + 0.021*designation + 0.018*house + 0.018*congratulating + 0.018*representatives + 0.017*act + 0.011*responsibility + 0.011*internet
+2014-04-17 18:47:13,591 : INFO : topic #15 (0.040): 0.042*sense + 0.041*expressing + 0.036*house + 0.035*act + 0.034*representatives + 0.022*united + 0.018*national + 0.017*states + 0.016*trade + 0.015*guard
+2014-04-17 18:47:13,592 : INFO : topic #16 (0.040): 0.071*tax + 0.067*act + 0.047*code + 0.047*amend + 0.045*revenue + 0.044*internal + 0.042*1986 + 0.024*credit + 0.018*relief + 0.014*provide
+2014-04-17 18:47:13,593 : INFO : topic #17 (0.040): 0.087*act + 0.029*congress + 0.025*sense + 0.025*business + 0.021*expressing + 0.021*small + 0.018*regarding + 0.016*extension + 0.016*gulf + 0.015*recovery
+2014-04-17 18:47:13,594 : INFO : topic #18 (0.040): 0.105*act + 0.024*transparency + 0.021*temporary + 0.020*child + 0.019*extend + 0.016*2009 + 0.015*prevention + 0.014*programs + 0.013*suspension + 0.013*international
+2014-04-17 18:47:13,595 : INFO : topic #19 (0.040): 0.040*united + 0.040*states + 0.026*forces + 0.026*armed + 0.021*government + 0.018*use + 0.015*funds + 0.013*members + 0.012*recognizing + 0.012*provide
+2014-04-17 18:47:13,596 : INFO : topic #20 (0.040): 0.085*act + 0.021*nations + 0.015*prohibition + 0.015*expressing + 0.014*support + 0.014*help + 0.013*heritage + 0.013*2007 + 0.012*empowerment + 0.011*land
+2014-04-17 18:47:13,597 : INFO : topic #21 (0.040): 0.049*act + 0.039*appropriations + 0.037*act, + 0.022*financial + 0.021*insurance + 0.018*agencies + 0.017*emergency + 0.014*related + 0.013*assistance + 0.013*department
+2014-04-17 18:47:13,598 : INFO : topic #22 (0.040): 0.046*supporting + 0.033*goals + 0.033*ideals + 0.029*national + 0.025*recognizing + 0.024*act + 0.021*contributions + 0.014*security + 0.014*honoring + 0.014*anniversary
+2014-04-17 18:47:13,599 : INFO : topic #23 (0.040): 0.203*act + 0.039*protection + 0.030*safety + 0.029*2011 + 0.029*2010 + 0.025*prevention + 0.017*college + 0.016*consumer + 0.016*2009 + 0.014*2004
+2014-04-17 18:47:13,600 : INFO : topic #24 (0.040): 0.161*act + 0.059*health + 0.057*care + 0.033*2009 + 0.025*2007 + 0.023*community + 0.019*fairness + 0.016*veterans + 0.015*2001 + 0.015*2011

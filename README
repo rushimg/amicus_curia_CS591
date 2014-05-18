@@ -1,0 +1,45 @@
+amicus curia CS591
+==================
+
+Amicus Curia Project for CS 591
+
+Project with Prof. Dino Christenson
+------------------------------------
+
+Files:
+
+1) emails/emails -> contains all the emails split into individual emails
+
+2) congress_memebers -> raw names of congress members as well as fuzzy matching and processed names of congress memebers
+
+3) data_analysis -> output of KNN, LDA, and k-means clustering methods
+
+4) data_analysis_scripts -> scripts to run KNN, LDA, and k-means clustering
+
+5) Scripts:
+
+basic_parser.py -> parses out to/from/subject etc fields from file
+basic_parser_to_file.py -> same as above, but writes to file 
+bill_names.py -> parse out bill names from emails
+clean_rep_names.py -> clean representative names 
+clean_rep_names2.py -> same as above with the bigs fixed
+fuzz_org_names.py -> match organization names in emails
+fuzz_rep_names.py -> match rep names in emails
+get_govtrack.py -> pull data from govtrack
+link_govtrack.py -> link govtrack data and emails data
+link_govtrack_2.py -> same as above but with bugs fixed
+split_files_on_by_email.py -> split original email files into individaul emails 
+
+
+6) CSVs
+bill_parsing_billtype: bills per email with full prefix name
+bill_parsing: bills per email with abbreviated prefix name
+basic_parsing: to/from/subject/congress/session per email
+bill_parsing_link: bills per email in form that they can be looked up in the govtrack csv
+govtrack.csv: data pulled from govtrack
+govtrack_link.csv: data pulled from govtrack with key that links to bill_parsing_link file
+reps_parsing: reps per email
+orgs_parsing: orgs per email
+knn* : k nearest neighbors results
+clust*: k-means results
+govtrack_link.csv and bill_parsing_link.csv are the files that I added today to link the bills per email and govtrack data.
